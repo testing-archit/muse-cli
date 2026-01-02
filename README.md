@@ -1,6 +1,10 @@
-# muse-cli
+<div align="center">
+  <img src="logo.png" alt="muse-cli logo" width="200"/>
+  
+  # muse-cli
 
-⚡ Your AI companion for instant motivation, reflection, and focus—right in your terminal
+  ⚡ Your AI companion for instant motivation, reflection, and focus—right in your terminal
+</div>
 
 ## What is muse-cli?
 
