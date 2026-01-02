@@ -63,6 +63,75 @@ Powered by Google Gemini 2.5 Flash and built with Bun for blazing-fast responses
    source ~/.zshrc
    ```
 
+## Quick Start Tutorial
+
+Get started with **muse-cli** in seconds. Here's how each command works:
+
+### 1. `gimme` - Instant Motivation
+
+When you need a quick push to get moving:
+
+![gimme command](screenshots/gimme.png)
+
+```bash
+$ gimme
+Less talk, more action. Your results are your only excuse.
+```
+
+Perfect for breaking through procrastination or getting that instant spark.
+
+---
+
+### 2. `thought` - Reflective Clarity
+
+For a moment of reflection without advice:
+
+![thought command](screenshots/thought.png)
+
+```bash
+$ thought
+The quietest moments often contain the loudest truths.
+```
+
+Great for meditation breaks or mindful pauses in your day.
+
+---
+
+### 3. `motivation` - Time-Aware Inspiration
+
+Context-aware motivation that adapts to your time of day:
+
+![motivation command](screenshots/motivation.png)
+
+```bash
+$ motivation
+Good morning! A fresh day awaits your greatness.
+Seize every opportunity to create, grow, and inspire.
+Make today count!
+```
+
+Different messages for morning, afternoon, and night—always relevant.
+
+---
+
+### 4. `chat` - Interactive Companion
+
+Have a conversation when you need to think things through:
+
+![chat command](screenshots/chat.png)
+
+```bash
+$ chat
+Chat mode. Type your message (Ctrl+C to exit)
+
+You: I'm feeling stuck
+AI: Break it down. What's the smallest thing you can do right now?
+```
+
+Your honest, no-BS terminal companion for deeper discussions.
+
+---
+
 ## Usage
 
 ### `gimme` - Quick Motivation
