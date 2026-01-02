@@ -1,5 +1,6 @@
 # Export API key for mind-cli
-export GEMINI_API_KEY="AIzaSyAX3X7abL1BLl7M7a7M_7rfKHq71FQMCXg"
+# Add this line to your ~/.zshrc with your actual API key:
+# export GEMINI_API_KEY="your_api_key_here"
 
 # Mind-CLI shell functions
 gimme() {
